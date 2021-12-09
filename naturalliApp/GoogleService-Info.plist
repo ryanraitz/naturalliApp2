@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>575900075645-09svuorqsuvsatlogjnj9pcb1o44of7p.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.575900075645-09svuorqsuvsatlogjnj9pcb1o44of7p</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDw4TYRpcfta0E41YeK2hN-btfomvN0tBg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>575900075645</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Raitz.naturalliApp</string>
+	<key>PROJECT_ID</key>
+	<string>naturalliapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>naturalliapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:575900075645:ios:fab3da7d6d29d22eaad314</string>
+	<key>DATABASE_URL</key>
+	<string>https://naturalliapp.firebaseio.com</string>
+</dict>
+</plist>

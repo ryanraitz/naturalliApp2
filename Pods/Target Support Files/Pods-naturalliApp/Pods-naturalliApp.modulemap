@@ -1,0 +1,6 @@
+framework module Pods_naturalliApp {
+  umbrella header "Pods-naturalliApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
